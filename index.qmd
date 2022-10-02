@@ -1,0 +1,157 @@
+---
+format: 
+  revealjs:
+    incremental: false   
+    theme: blue-nalanda.scss
+    transition: fade
+    background-transition: fade
+code-link: true    
+editor: visual
+---
+
+#  {background-image="image/campus-road.png" background-size="cover"}
+
+------------------------------------------------------------------------
+
+![](image/parents.png){fig-align="center"}
+
+### On 14th October 2021 - the Foundation for Nalanda Abhiyan Campus was laid
+
+## Campus Vision
+
+-   Transitioning from 'coaching centre' to a 'resource centre'
+
+-   Teacher training centre
+
+-   Digital Nalanda to become an e-learning hub
+
+-   Samyak Interdisciplinary Research Centre
+
+-   Short-term training programs for various entrance exams
+
+-   Special trainings on emerging fields like Data Science
+
+## Need for a Campus
+
+-   To ensure safety & dignity for students by providing a clean and welcoming living space with good food and health facilities
+
+-   To manage multiple classrooms running simultaneous programs
+
+-   Library, Auditorium, and Recreation Centre
+
+-   To house the growing infrastructure required to maintain and run Digital Nalanda
+
+-   To house a fully-fledged interdisciplinary research centre
+
+------------------------------------------------------------------------
+
+![](image/logo-na.png){fig-align="left" width="100"}
+
+### Proposed architectural plan for <br> **'Nalanda Abhiyan Campus'**
+
+#  {background-image="image/plan1.png" background-size="cover"}
+
+#  {background-image="image/plan2.png" background-size="cover"}
+
+#  {background-image="image/plan3.png" background-size="cover"}
+
+#  {background-image="image/plan4.png" background-size="cover"}
+
+------------------------------------------------------------------------
+
+![](image/logo-na.png){fig-align="left" width="100"}
+
+### Phase - 1: Costs & Plans
+
+#### Estimates & Projections
+
+------------------------------------------------------------------------
+
+## Campus Plans: Phase-1
+
+::: columns
+::: {.column width="50%"}
+-   Launch: Jan 2024
+
+-   100 students
+
+-   Full-time staff & faculty support
+:::
+
+::: {.column width="50%"}
+-   Functioning infrastructure:
+
+    -   Hostel
+
+    -   Mess
+
+    -   Classrooms
+
+    -   Staff room
+
+    -   Library/ Reading Room
+:::
+:::
+
+### TOTAL ESTIMATE for Phase1: Rs 6.5 Crores (approx.)
+
+------------------------------------------------------------------------
+
+![](image/logo-na.png){fig-align="left" width="100"}
+
+### Running Costs & Revenue Stream
+
+#### Estimates & Projections
+
+## Phase-1: Projections
+
+::: columns
+::: {.column width="50%"}
+#### EXPENSES PER MONTH:
+
+-   100 students \@ Rs 4000\* each: Rs 4L
+
+-   Staff Salaries: Rs 3L
+
+-   Maintenance: Rs 1L
+
+-   Electricity & Misc: Rs 2L
+
+-   TOTAL: Rs 10 Lakh per month
+:::
+
+::: {.column width="50%"}
+#### REVENUE PER MONTH:
+
+-   \*300 alumni \@ Rs 500 each: Rs 1.5L
+
+-   \*1000 'Nalanda Mitra' \@ Rs 500 each: Rs 5L
+
+-   \*50 'International Sponsors' \@\$100 each: Rs 3.5L
+
+-   TOTAL: Rs 10 Lakh per month
+:::
+:::
+
+
+::: aside
+\*\*Includes food, facilities &<br>lodging expenses
+:::
+
+## Future Funding Plan
+
+-   We plan to build a corpus for the smooth & independent running of operations at Nalanda Abhiyan Campus
+
+-   This corpus will be over & above the discussed funding commitments &
+
+-   secured from individual & institutional donations
+
+### Targeted corpus amount: Rs 6 crore by 2025
+
+------------------------------------------------------------------------
+
+<iframe width="1150" height="715" src="https://www.youtube.com/embed/QRZ2WqRiSZc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen>
+
+</iframe>
+
+# Thank you so much!<br>JAI BHIM!!
